@@ -1,5 +1,5 @@
 # 🏭 Industrial Process Monitoring Framework (CSTR & TE)
-This is is for the paper we submitted "Joint Koopman-Guided Slow Feature Analysis with Dynamic Consistency for Nonlinear Industrial Process Monitoring".
+This is for the paper we submitted "Joint Koopman-Guided Slow Feature Analysis with Dynamic Consistency for Nonlinear Industrial Process Monitoring".
 
 This project provides a unified experimental framework for comparing multiple multivariate statistical process monitoring (MSPM) methods on two classic industrial process datasets: **CSTR** (Continuous Stirred Tank Reactor) and **TE** (Tennessee Eastman).
 
